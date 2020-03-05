@@ -1,4 +1,5 @@
 #include<iostream>
+#include<string.h>
 using namespace std;
 void rotate(int a[],int start,int end){
 	int temp=a[end];
